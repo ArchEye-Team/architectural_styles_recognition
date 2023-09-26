@@ -1,6 +1,6 @@
 # ArchEye project
 
-Our project is dedicated to recognizing the architectural styles of buildings from photographs. 
+Our project is dedicated to recognizing the architectural styles of buildings from photos. 
 
 Below you can see the architecture of our solution.
 
