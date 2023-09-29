@@ -53,3 +53,5 @@ Below you can see the architecture of our solution.
 8.	Типовая советская архитектура:
     *	Типовая архитектура хрущевского времени
     *	Типовая архитектура брежневского времени
+
+Все результаты проведённого мини-исследования зафиксированы в Google Sheets по следующей ссылке: https://docs.google.com/spreadsheets/d/1flZR9etKiiBj5woGevgpPm_uXmV5QDf2FaGiVF5qL9s/edit?usp=sharing
