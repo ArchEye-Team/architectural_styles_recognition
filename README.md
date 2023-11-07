@@ -76,6 +76,8 @@ Our project is dedicated to recognizing the architectural styles of buildings fr
 
 Для версионирования нашего датасета мы использовали MLFlow. На текущий момент есть 2 версии датасета: сырой и после очистки.
 
+Все требования к данным, инструкции для разметчика, а также расчёт стоимости сборки всего датасета были подробно расписаны в нашем Google-документе (https://docs.google.com/document/d/1NPxiwmb6qTcejX8FUNtnz5B4XwUiJwMTlFEK3ELzqfk/edit?usp=sharing)
+
 ### Эксперименты по обучению классификационных моделей
 
 В качестве моделей для экспериментов мы отобрали 3 классификационных модели: EfficientNetV2, ViT и ResNet. Обоснование выбора моделей, ссылки на код для обучения зафиксированы в Google-таблице (на странице "Модели для классификации"): https://docs.google.com/spreadsheets/d/1flZR9etKiiBj5woGevgpPm_uXmV5QDf2FaGiVF5qL9s/edit#gid=2029452096.
