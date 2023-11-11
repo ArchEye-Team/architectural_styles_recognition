@@ -111,3 +111,5 @@ Our project is dedicated to recognizing the architectural styles of buildings fr
 Веса обученных моделей сохранены в папке на яндекс-диске: https://disk.yandex.ru/d/O7m7Ewd9vNWJCQ.
 
 ### Приложение
+
+Нами было написано iOS-приложение. Код не поместился на github, поэтому мы выложили его на яндекс-диск: https://disk.yandex.ru/d/E5-2CkqpjnaYKw.
