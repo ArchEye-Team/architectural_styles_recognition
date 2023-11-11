@@ -22,6 +22,8 @@ Our project is dedicated to recognizing the architectural styles of buildings fr
 
 ### Демо
 
+С демонстрацией работы нашего приложения можно ознакомиться здесь: https://disk.yandex.ru/i/sFGLd1HUspkG6A, https://disk.yandex.ru/i/w6WEkqI5r8nvXw.
+
 ## Как устроено наше решение?
 
 Ниже можно ознакомиться с архитектурой нашего решения.
