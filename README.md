@@ -116,9 +116,15 @@ Our project is dedicated to recognizing the architectural styles of buildings fr
 
 ## Демонстрация
 
+# Кастомная камера 
 https://github.com/ArchEye-Team/architectural_styles_recognition/assets/62216629/727dca45-8bbf-4af8-b30b-5362b2b3f1be
 
+# Загрузка фото из галерии
 https://github.com/ArchEye-Team/architectural_styles_recognition/assets/62216629/b7427710-c0c2-4600-b7f6-04b5ed7a01b2
 
+# Экраны
 https://github.com/ArchEye-Team/architectural_styles_recognition/assets/62216629/093282e7-ce47-4c70-a96a-f70f81c007ec
 
+## Требования к установке 
+Xcode 14
+iOS 16.0+
