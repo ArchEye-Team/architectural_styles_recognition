@@ -113,3 +113,12 @@ Our project is dedicated to recognizing the architectural styles of buildings fr
 ### Приложение
 
 Нами было написано iOS-приложение. Код не поместился на github, поэтому мы выложили его на яндекс-диск: https://disk.yandex.ru/d/E5-2CkqpjnaYKw.
+
+## Демонстрация
+
+https://github.com/ArchEye-Team/architectural_styles_recognition/assets/62216629/727dca45-8bbf-4af8-b30b-5362b2b3f1be
+
+https://github.com/ArchEye-Team/architectural_styles_recognition/assets/62216629/b7427710-c0c2-4600-b7f6-04b5ed7a01b2
+
+https://github.com/ArchEye-Team/architectural_styles_recognition/assets/62216629/093282e7-ce47-4c70-a96a-f70f81c007ec
+
